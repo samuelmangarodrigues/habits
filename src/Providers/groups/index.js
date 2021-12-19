@@ -20,7 +20,7 @@ export const GroupsProvider = ({ children }) => {
     });
   };
 
-  const getUserGroups = (token) => {
+  const getUserGroups = () => {
     api
       .get("/groups/subscriptions/", {
         headers: {
