@@ -1,3 +1,20 @@
+# A aplicação tem como objetivo facilitar a gestão de tempo e estimular o usuário a ter hábitos que lhe trarão benefícios a medida que ele conclui as tarefas🐰
+
+# Tecnologias: 
+Aplicação desenvolvida em JavaScript.
+
+### `Bibliotecas utilizadas:`
+Material Ui \
+Ant Design \
+Axios \
+Jwt-decode \
+React-hook-form \
+React-icons \
+React-router-dom \
+React-toastify \
+Styled-components
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
