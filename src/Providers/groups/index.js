@@ -20,7 +20,8 @@ export const GroupsProvider = ({ children }) => {
     });
   };
 
-  const getUserGroups = () => {
+  const getUserGroups async = () => {
+    await
     api
       .get("/groups/subscriptions/", {
         headers: {
